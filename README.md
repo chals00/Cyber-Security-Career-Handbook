@@ -36,6 +36,10 @@ A comprehensive, industry-aligned roadmap and practical resource repository for 
 * [`soc_auth_log_analyzer.py`](./soc_auth_log_analyzer.py) — Automated Python security script to parse server authentication logs and detect brute-force attack attempts.
 * [`incident_response_checklist.md`](./incident_response_checklist.md) — Step-by-step triage checklist for handling containment and remediation during security alerts.
 
+## 📁 Included Security Assets & Tooling
+* [`soc_auth_log_analyzer.py`](./soc_auth_log_analyzer.py) — Automated Python security script to parse server authentication logs and detect brute-force attack attempts.
+* [`incident_response_checklist.md`](./incident_response_checklist.md) — Step-by-step triage checklist for handling containment and remediation during security alerts.
+* [`network_recon_port_scanner.py`](./network_recon_port_scanner.py) — Lightweight multi-threaded socket port scanner for defensive auditing and penetration testing.
 ---
 
 ## 🎯 Top Cyber Security Technical Interview Questions
